@@ -1,0 +1,28 @@
+# Network Connectivity Troubleshooting Report
+
+## Ticket ID
+NET001
+
+## Objective
+Test connectivity between the local computer and an external IP address.
+
+## Diagnostic Command
+`ping 8.8.8.8`
+
+## Findings
+- Four packets sent.
+- Four packets received.
+- Zero packets lost.
+- Average round-trip time of 8 milliseconds.
+
+## Resolution
+No corrective action was required because the connectivity test passed.
+
+## Verification
+All four ping requests received replies.
+
+## Conclusion
+Connectivity to the tested external server was successful during the test. Additional checks may be required to establish whether all network services and websites are accessible.
+
+## Evidence
+See the network connectivity screenshot in the evidence folder, once reviewed and sanitised for publication.
