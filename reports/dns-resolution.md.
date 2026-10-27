@@ -1,0 +1,33 @@
+# DNS Resolution Troubleshooting Report
+
+## Ticket ID
+NET002
+
+## Objective
+Verify that the computer can resolve a domain name into IP addresses using DNS.
+
+## Diagnostic Command
+`nslookup google.com`
+
+## Environment
+- Operating System: Windows 11 Pro
+- Tool: Windows Command Prompt
+
+## Findings
+- DNS server name reported: dev.opt
+- DNS server address: fe80::1
+- DNS lookup for google.com: Successful
+- IPv4 address returned: 142.251.216.78
+- IPv6 address returned: 2c0f:fb50:4002:809::200e
+
+## Conclusion
+The DNS lookup successfully returned IPv4 and IPv6 addresses for google.com, confirming that DNS resolution was working during the test.
+
+## Resolution
+No corrective action was required because the DNS lookup succeeded.
+
+## Evidence
+A screenshot of the `nslookup google.com` command and its output was captured.
+
+## Status
+Completed — test passed.
