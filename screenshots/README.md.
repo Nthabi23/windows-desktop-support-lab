@@ -1,0 +1,24 @@
+# Screenshots and Evidence
+
+This folder contains screenshots captured during the Windows Desktop Support & Troubleshooting Lab.
+
+The screenshots provide visual evidence of practical troubleshooting activities performed on a Windows 11 Pro computer.
+
+## Evidence Included
+
+- Network connectivity testing using `ping 8.8.8.8`.
+- DNS resolution testing using `nslookup google.com`.
+- Windows system information and performance monitoring.
+- Additional troubleshooting activities as the project progresses.
+
+## Purpose
+
+The screenshots support the troubleshooting reports by showing the commands executed and the results obtained during each test.
+
+## Privacy and Security
+
+All screenshots must be reviewed before publication. Personal information, usernames, private network details, and other sensitive information should be removed or obscured where necessary.
+
+## Note
+
+This is a personal learning project created to demonstrate practical IT Support, Technical Support, and troubleshooting skills.
